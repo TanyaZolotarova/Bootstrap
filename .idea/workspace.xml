@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86202da0-6fc6-498f-9219-00c93326160a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1guvkPGILRO3h10TknfuQdMyL7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86202da0-6fc6-498f-9219-00c93326160a" name="Default Changelist" comment="" />
+      <created>1598977434097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598977434097</updated>
+      <workItem from="1598977435191" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="280" key="FileChooserDialogImpl" timestamp="1598977524590">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="748" y="280" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1598977524590" />
+    <state x="834" y="422" key="Github.ShareDialog" timestamp="1598977594248">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="834" y="422" key="Github.ShareDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1598977594248" />
+    <state x="461" y="157" key="SettingsEditor" timestamp="1598977542298">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="461" y="157" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1598977542298" />
+  </component>
+</project>
